@@ -1,10 +1,6 @@
 This is my solution for a software engineering position at NearMap. NearMap is an Australian company that provides customerized satellite imagery for enterprises. The solution is efficient and complete.
 
-The parent site is at:
-https://github.com/russellar/nearmap-HyperVision-coding-test.
-
 ----------------------------------------------------------------------------------------------------
-
 
 # nearmap.com HyperVision C++ Technical Test
 
